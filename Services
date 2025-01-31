@@ -1,0 +1,6 @@
+--Amazon S3 - Simple storage service
+It mostly used general object storage on cloud. We can store anythning sourcecode, media content, csv etc
+creating bucket in S3
+Writing/reading from S3 buckets
+--EC2 
+--AWS lambda
