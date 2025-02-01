@@ -1,6 +1,24 @@
+AWS stands Amazon web services, its one of the largest cloud service platform 
+AWS services can be used to create and deploy any application in cloud
+It provides services over the internet
+
 --Amazon S3 - Simple storage service
 It mostly used general object storage on cloud. We can store anythning sourcecode, media content, csv etc
 creating bucket in S3
 Writing/reading from S3 buckets
 --EC2 
 --AWS lambda
+--Amazon Redshift
+Amazon Redshift is cloud based DWH service acts as centralized repsoitory for all oranizational data.
+It supports pentabtes of data. Redshift is more suitable BI and Analytical work.
+High performnce and low cost.  It is fastest DWH, cose is also less compared to other cloud DWH
+Scalabiity we add nodes as it needed. managed services. pay for usage
+Column storage   which helps in query performance
+
+Client application interacts with redshift using two drivers
+ODBC - > Open Database connectivity
+JDBC -> Java Database connectivity 
+
+Group of nodes = cluster
+
+RDS is a DB service which AWS is offerin more suitable for smaller volumes
