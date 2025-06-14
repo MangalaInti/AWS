@@ -8,6 +8,9 @@ creating bucket in S3
 Writing/reading from S3 buckets
 --EC2 
 --AWS lambda
+AWS lambda are server-less compute functions are fully managed by the AWS 
+where developers can run their code without worrying about servers. 
+ Function as a Service (FaaS) provided by Amazon as a part of Amazon Web Services.
 --Amazon Redshift
 Amazon Redshift is cloud based DWH service acts as centralized repsoitory for all oranizational data.
 It supports pentabtes of data. Redshift is more suitable BI and Analytical work.
