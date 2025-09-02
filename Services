@@ -7,6 +7,10 @@ It mostly used general object storage on cloud. We can store anythning sourcecod
 creating bucket in S3
 Writing/reading from S3 buckets
 --EC2 
+Amazon EC2 (Elastic Compute Cloud) allows you to rent virtual servers (instances) to run
+applications.
+Example:
+Use EC2 to deploy a backend service like a Django or Node.js API.
 --AWS lambda
 AWS lambda are server-less compute functions are fully managed by the AWS 
 where developers can run their code without worrying about servers. 
